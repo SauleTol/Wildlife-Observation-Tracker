@@ -1,2 +1,11 @@
-<p style="color:blue;">This is blue text.</p>
-I created a system to track and analyze wildlife observations using MySQL. I collected data on animal sightings, stored it in a MySQL database, and then generated insights and visualizations based on the data.
+# My Wildlife Tracker Project 🐸
+
+**Objective:** Create a system to track and analyze wildlife observations using MySQL.
+
+## What to do 👩‍💻
+
+<ul>
+<li></strong> Collect and store animal sightings.</li>
+<li>Analyze data to find trends and patterns.</li>
+<li><strong> Create charts and maps to visualize the data.</li>
+</ul>
