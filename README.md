@@ -9,3 +9,4 @@
 <li>Analyze data to find trends and patterns.</li>
 <li><strong> Create charts and maps to visualize the data.</li>
 </ul>
+
