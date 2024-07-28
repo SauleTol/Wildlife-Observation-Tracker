@@ -1,6 +1,6 @@
-# My Wildlife Tracker Project 🐸
+# My Wildlife Tracker Analysis Project 🐸
 
-**Objective:** Create a system to track and analyze wildlife observations using SQLf.
+**Objective:** Create a system to track and analyze wildlife observations using SQL.
 
 ## What to do 👩‍💻
 
